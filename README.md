@@ -1,2 +1,4 @@
 # hello-world
-basic tutorial on how to create a repository
+
+Marilia here, I am new at coding.
+Hope is really fun.
